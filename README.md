@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RudolfStarosta
 - 👀 I’m interested in christianity, human rights, peace
-- 🌱 I’m currently learning TypeScript, Kotlin
+- 🌱 I’m currently learning TypeScript, AWS
 - 💞️ I’m looking to collaborate on creating a better world
 - 📫 How to reach me ...
 
